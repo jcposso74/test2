@@ -24,7 +24,7 @@ Ram_Usage = [275.8,331.0,333.1]
 Number_of_Neuron = ['200', '400', '800']
 
 plt.plot(Number_of_Neuron,Hours_taken, color='red', marker='o')
-plt.title('Ram Usage VS Number of Neurons - c0810093')
+plt.title('Ram Usage VS Number of Neurons- c0810093')
 plt.ylabel('Ram Usage')
 plt.xlabel('Number of Neurons')
 plt.show()
